@@ -1,9 +1,9 @@
 package module_1_test_lab_question_2;
 
 public abstract class Account {
-	protected Owner owner;
-	protected float balance;
-	protected String number;
+	 Owner owner;
+	 float balance;
+	 String number;
 	
 	public Account() {
 		owner=null;

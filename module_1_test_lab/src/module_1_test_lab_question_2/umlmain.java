@@ -3,7 +3,7 @@ package module_1_test_lab_question_2;
 public class umlmain {
     public static void main(String[] args) {
 
-        Date d1 = new Date(10, 5, 2002);
+        Date d1 = new Date(16, 04, 2004);
         Owner o1 = new Owner("Komal", d1, "NIC123");
 
         Account a1 = new SavingAccount(o1, 5000, "SA1001", 5.5f);
